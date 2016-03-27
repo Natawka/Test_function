@@ -1,0 +1,41 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background:#dbdfdd;
+	font-family: Arial, sans-serif;
+}
+
+.wrapper{
+   	margin: auto;
+	margin-top: 50px;
+	padding: 50px 50px;
+	width: 700px;
+	background: white;
+}
+label {
+	font-size: 15px;
+}
+
+h1 {
+	text-align:center;
+	font-size: 21px;
+}
+
+.test_question {
+	font-size: 17px;
+	font-weight: bold;
+	margin-bottom: 15px;
+	margin-top: 15px;
+}
+
+input[type="submit"] {
+	margin-left: 220px;
+	width: 270px;
+	border-radius: 5px;
+	border: 1px solid #b6b6b6;
+	height: 40px;
+	font-size: 15px;;
+}
